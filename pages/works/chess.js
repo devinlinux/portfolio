@@ -19,7 +19,7 @@ const Work = () => {
 							<Meta>
 								Download
 							</Meta>
-							<Link href="https://michaelbobrowski.000webhostapp.com">
+							<Link href="https://michaelbobrowski.000webhostapp.com/projects.html">
 								Download
 							</Link>
 						</ListItem>

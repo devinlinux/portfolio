@@ -78,7 +78,7 @@ const Home = () => (
           Michael is a sophomore at Bishop Ireton High School in Alexandria, Virginia. He enjoys making websites and applications using several different programming languages. When not developing online, he plays Baseball and Swims for Bishop Ireton High School. During his sophomore year of high school he will be taking AP Computer Science Applications to further his knowledge of Computer Science Topics.
         </Paragraph>
         <Box align="center" my={4}>
-          <NextLink href="https://michaelbobrowski.000webhostapp.com" passHref scroll={false}>
+          <NextLink href="/works" passHref scroll={false}>
             <Button rightIcon={<ChevronRightIcon />} colorScheme="teal">
               My portfolio
             </Button>
